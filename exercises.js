@@ -9,14 +9,14 @@ let pessoas = [
   
   for (let u = 0; u < pessoas.length; u++) {
     console.log(pessoas[u].nome);  
-  }
+}
 
 
 
 
 /*17.Percorrer Propriedades de um Objeto
 Escreva um loop que percorra um objeto e imprima todas as suas chaves e valores.*/
-let obj = {a: 1, b: 2, c: 3};
+let obj = {a: r1, b: 2, c: 3};
 
 for (let key in obj) {
   console.log(key); // 'a', 'b', 'c' (chaves)
