@@ -91,11 +91,25 @@ let maiorAltura = Math.max(...alturas);
 console.log(`A menor altura do grupo é: ${menorAltura}`);
 console.log(`A maior altura do grupo é: ${maiorAltura}`);
 
+// let count = 1
+// const alturas = []
 
+// while (count <= 5) {
+//     const altura = +prompt(`Digite a ${count}ª altura: `)
+//     alturas.push(altura)
+//     count++
+// }
+
+// const maiorAltura1 = Math.max(...alturas)
+// const menorAltura1 = Math.min(...alturas)
+
+// console.log(`\nA maior altura é ${maiorAltura1}`)
+// console.log(`\nA menor altura é ${menorAltura1}`)	
 
 
 /*23.Média Aritmética e Percentual de Valores
 Desenvolver um algoritmo que leia um número não determinado de valores e calcule e escreva a média aritmética dos valores lidos, a quantidade de valores positivos, a quantidade de valores negativos e o percentual de valores negativos e positivos.*/
+
 
 
 /*24.Contagem de Números em Intervalos
